@@ -2,7 +2,9 @@
 Colocando alguns estudos em prática com um pequeno projeto de Engenharia de Dados.
 
 # Diagrama Abstrato do Projeto
---------
+
+![Diagrama](https://user-images.githubusercontent.com/115668126/230206117-dcd0c3b1-aef6-4774-8efa-4f8a7da60df0.png)
+
 
 ### *Análise Geral*
 - Encontrar uma fonte com muitos arquivos para projetos.
