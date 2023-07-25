@@ -7,10 +7,21 @@ Colocando alguns estudos em prática com um pequeno projeto de Engenharia de Dad
 
 
 ### *Análise Geral*
-- Encontrar uma fonte com muitos arquivos para projetos.
-- Instalar um SGBD e criar uma base de dados.
-- Ingestão de dados com apenas uma Query.
-- Criar uma base de dados em ambiente Cloud e efetuar a migração de dados da máquina local para o ambiente Cloud.
+Este projeto é dividido em 6 fases sequenciais. 
+
+Na primeira etapa, serão obtidos dados em formato .csv. 
+
+Em seguida, na segunda etapa, um SGBD será instalado no computador pessoal. 
+
+Na terceira etapa, será criada uma base de dados no SGBD. 
+
+Na quarta etapa, os dados do arquivo .csv serão inseridos na base de dados, sem o uso de Python. 
+
+Na quinta etapa, será criada uma base de dados no Azure SQL Database. 
+
+Por fim, na sexta etapa, uma ferramenta será utilizada para migrar os dados do SGBD do computador pessoal para o Azure Database. 
+
+O objetivo final é ter os dados armazenados e acessíveis na nuvem, no Azure SQL Database.
 
 
 
